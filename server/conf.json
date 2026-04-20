@@ -1,0 +1,5 @@
+{
+    "database_path": "users.db",
+    "logs_path": "logs.json",
+    "port": 4545
+}
